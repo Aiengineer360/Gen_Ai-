@@ -47,6 +47,6 @@ I successfully completed all modules of the Generative AI course on Kaggle, whic
 
 ## 🔗 Certification
 - [Kaggle Profile](https://www.kaggle.com/ai360engineer)
-- [Kaggle Generative AI Course Certificate]([https://www.kaggle.com/learn/generative-ai](https://www.kaggle.com/certification/badges/ai360engineer/96))
+- [Kaggle Generative AI Course Certificate](https://www.kaggle.com/certification/badges/ai360engineer/96)
 
 Feel free to explore the notebooks to see my implementations of these generative AI concepts!
